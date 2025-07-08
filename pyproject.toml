@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "get-papers-list"
+version = "0.1.0"
+description = "CLI tool to fetch PubMed papers with non-academic authors from pharma/biotech companies"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+requests = "^2.31.0"
+
+[tool.poetry.scripts]
+get-papers-list = "get_papers_list.__main__:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
