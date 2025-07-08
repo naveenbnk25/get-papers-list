@@ -125,4 +125,4 @@ MIT License
 ## 🙋‍♂️ Author
 
 Naveen B
-[GitHub Profile](https://github.com/naveenbnk25/get-papers-list.git)
+[GitHub Profile](https://github.com/naveenbnk25/)
